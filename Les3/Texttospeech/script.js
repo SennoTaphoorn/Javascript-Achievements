@@ -52,9 +52,9 @@
     
     
     
-    const onderwerp = ["she", "Ed", "Rosmerta"];
-    const werkwoord = ["walks", "learns", "drinks"];
-    const restwoord = ["hard", "at school", "coffee"];
+    const onderwerp = ["He", "Senno", "Steven"];
+    const werkwoord = ["talks", "fell", "sleeps"];
+    const restwoord = ["funny", "too much", "forever"];
         
-    let plaatjes = ["https://cdn.pixabay.com/photo/2018/07/09/17/44/baby-elephant-3526681__340.png", "https://www.how-to-draw-funny-cartoons.com/images/cartoon-baby-007.jpg", "https://thumbs.dreamstime.com/b/smiling-heart-cartoon-open-arms-nice-image-all-projects-love-representing-version-its-suggest-idea-40930153.jpg", "https://observer.com/wp-content/uploads/sites/2/2020/05/yoda-art-observer.jpg?quality=80"]
+    let plaatjes = ["Stuff/dong.png", "Stuff/steven.png", "Stuff/war.jpg", "Stuff/bonk.jpg"]
     let arrayLength = onderwerp.length;
