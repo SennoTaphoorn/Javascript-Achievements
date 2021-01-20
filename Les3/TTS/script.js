@@ -52,9 +52,9 @@
     
     
     
-    const onderwerp = ["He", "Senno", "Steven"];
+    const onderwerp = ["He", "Bob", "Steven"];
     const werkwoord = ["talks", "fell", "sleeps"];
     const restwoord = ["funny", "too much", "forever"];
         
-    let plaatjes = ["Stuff/dong.png", "Stuff/steven.png", "Stuff/war.jpg", "Stuff/bonk.jpg"]
+    let plaatjes = ["Stuff/dong.png", "Stuff/guy.jpg", "Stuff/war.jpg", "Stuff/manbat.PNG"]
     let arrayLength = onderwerp.length;
