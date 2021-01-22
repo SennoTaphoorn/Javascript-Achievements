@@ -7,7 +7,7 @@ dezeDag = dezeDag.getDate();
 
 let dezeMaand = new Date;
 dezeMaand = dezeMaand.getMonth();
-dezeMaand =+ 1;
+dezeMaand += 1;
 
 let dezeJaar = new Date;
 dezeJaar = dezeJaar.getFullYear();
